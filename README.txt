@@ -2,7 +2,6 @@
 
 this is the first file. 
 
-## ipsum below
+## website content
+1. index.html
 
-ngay buon awn tookbokki san gkyu di nghu roi lm sao day minh van con nhieu thu de hojc
-ngay buon awn tookbokki san gkyu di nghu roi lm sao day minh van con nhieu thu de hojc
